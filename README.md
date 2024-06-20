@@ -15,6 +15,7 @@
 - [woowacourse-archive](#woowacourse-archive)
   - [Pre-Course](#pre-course)
   - [Level 1](#level-1)
+  - [Level 2](#level-2)
 
 <br />
 
@@ -46,3 +47,20 @@
 |             |                       | Step2 (자주 가는 음식점)           | [PR](https://github.com/woowacourse/javascript-lunch/pull/170)        | -   |
 | 영화 리뷰   | 비동기                | Step1 (영화 목록 불러오기)         | [PR](https://github.com/woowacourse/javascript-movie-review/pull/126) | -   |
 |             |                       | Step2 (상세 정보 & UI/UX 개선하기) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/165) | -   |
+
+<br />
+
+## Level 2
+
+활동 기간 : 24.04.16 - 24.06.14
+
+| 미션 이름     | 학습 키워드                        | Step                          | 미션 PR                                                              | URL |
+| ------------- | ---------------------------------- | ----------------------------- | -------------------------------------------------------------------- | --- |
+| 페이먼츠      | Component, Storybook, State, hooks | Step1 (Component & Storybook) | [PR](https://github.com/woowacourse/react-payments/pull/339)         | -   |
+|               |                                    | Step2 (hooks & state)         | [PR](https://github.com/woowacourse/react-payments/pull/400)         | -   |
+| 페이먼츠 모듈 | Module                             | Step1 (Module)                | [PR](https://github.com/woowacourse/react-modules/pull/25)           | -   |
+|               | Refactoring                        | Step2 (Refactoring)           | [PR](https://github.com/woowacourse/react-modules/pull/63)           | -   |
+| 장바구니      | 클라이언트 상태(Recoil), RTL       | Step1                         | [PR](https://github.com/woowacourse/react-shopping-cart/pull/253)    | -   |
+|               | 파생 상태                          | Step2                         | [PR](https://github.com/woowacourse/react-shopping-cart/pull/313)    | -   |
+| 상품 목록     | MSW                                | Step1                         | [PR](https://github.com/woowacourse/react-shopping-products/pull/33) | -   |
+|               | 서버 상태 관리 (TanStack Query)    | Step2                         | [PR](https://github.com/woowacourse/react-shopping-products/pull/70) | -   |
