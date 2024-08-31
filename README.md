@@ -16,6 +16,7 @@
   - [Pre-Course](#pre-course)
   - [Level 1](#level-1)
   - [Level 2](#level-2)
+  - [팀 프로젝트: momo](#팀-프로젝트-momo)
   - [스터디](#스터디)
   - [글쓰기](#글쓰기)
 
@@ -69,6 +70,18 @@
 
 <br />
 
+## 팀 프로젝트: momo
+
+간편한 약속 조율 서비스
+
+|   항목    | Link                                                                                             |
+| :-------: | :----------------------------------------------------------------------------------------------- |
+|  서비스   | [momo 서비스 이용하기](https://www.momonow.kr)                                                   |
+| 소스 코드 | [GitHub 저장소](https://github.com/woowacourse-teams/2024-momo)                                  |
+|  팀 문서  | [팀 노션 페이지](https://paper-mass-5ff.notion.site/momo-706f061b3c374f2d8f90cb8b0aabc445?pvs=4) |
+
+<br />
+
 ## 스터디
 
 | No. |             Study              |                                       Link                                        |
@@ -84,3 +97,4 @@
 | :---: | :------------------------------------------------------------: | :---------------------------------------------------------: |
 |   1   |             마인드셋, 유연성 강화 목표 & 돌아보기              | [PR](https://github.com/woowacourse/woowa-writing/pull/51)  |
 |   2   | (구체화 한) 유연성 강화 목표, 유연성 강화 실험계획과 경험/일화 | [PR](https://github.com/woowacourse/woowa-writing/pull/165) |
+|   3   |    협업을 잘 하기 위한 유연성 강화 목표 및 실험 계획과 결과    | [PR](https://github.com/woowacourse/woowa-writing/pull/321) |
