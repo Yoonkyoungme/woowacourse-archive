@@ -40,16 +40,16 @@
 
 활동 기간 : 2024.02.13 - 2024.04.05
 
-|     미션     |      학습 키워드      |                Step                |                                미션 PR                                | URL |
-| :----------: | :-------------------: | :--------------------------------: | :-------------------------------------------------------------------: | :-: |
-| 자동차 경주  |      단위 테스트      |   Step1 (자동차 경주 기능 구현)    |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/270)   |  -  |
-|              |                       |    Step2 (자동차 경주 리팩터링)    |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/311)   |  -  |
-|     로또     |    TDD, 객체, 함수    |    Step1 (콘솔 기반 로또 게임)     |    [PR](https://github.com/woowacourse/javascript-lotto/pull/266)     |  -  |
-|              |                       |     Step2 (웹 기반 로또 게임)      |    [PR](https://github.com/woowacourse/javascript-lotto/pull/315)     |  -  |
-| 점심 뭐 먹지 | Component, E2E 테스트 |        Step1 (음식점 목록)         |    [PR](https://github.com/woowacourse/javascript-lunch/pull/120)     |  -  |
-|              |                       |      Step2 (자주 가는 음식점)      |    [PR](https://github.com/woowacourse/javascript-lunch/pull/170)     |  -  |
-|  영화 리뷰   |        비동기         |     Step1 (영화 목록 불러오기)     | [PR](https://github.com/woowacourse/javascript-movie-review/pull/126) |  -  |
-|              |                       | Step2 (상세 정보 & UI/UX 개선하기) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/165) |  -  |
+|     미션     |      학습 키워드      |                Step                |                                미션 PR                                |
+| :----------: | :-------------------: | :--------------------------------: | :-------------------------------------------------------------------: |
+| 자동차 경주  |      단위 테스트      |   Step1 (자동차 경주 기능 구현)    |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/270)   |
+|              |                       |    Step2 (자동차 경주 리팩터링)    |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/311)   |
+|     로또     |    TDD, 객체, 함수    |    Step1 (콘솔 기반 로또 게임)     |    [PR](https://github.com/woowacourse/javascript-lotto/pull/266)     |
+|              |                       |     Step2 (웹 기반 로또 게임)      |    [PR](https://github.com/woowacourse/javascript-lotto/pull/315)     |
+| 점심 뭐 먹지 | Component, E2E 테스트 |        Step1 (음식점 목록)         |    [PR](https://github.com/woowacourse/javascript-lunch/pull/120)     |
+|              |                       |      Step2 (자주 가는 음식점)      |    [PR](https://github.com/woowacourse/javascript-lunch/pull/170)     |
+|  영화 리뷰   |        비동기         |     Step1 (영화 목록 불러오기)     | [PR](https://github.com/woowacourse/javascript-movie-review/pull/126) |
+|              |                       | Step2 (상세 정보 & UI/UX 개선하기) | [PR](https://github.com/woowacourse/javascript-movie-review/pull/165) |
 
 <br />
 
@@ -57,16 +57,16 @@
 
 활동 기간 : 24.04.16 - 24.06.14
 
-|   미션 이름   |            학습 키워드             |             Step              |                               미션 PR                                | URL |
-| :-----------: | :--------------------------------: | :---------------------------: | :------------------------------------------------------------------: | :-: |
-|   페이먼츠    | Component, Storybook, State, hooks | Step1 (Component & Storybook) |     [PR](https://github.com/woowacourse/react-payments/pull/339)     |  -  |
-|               |                                    |     Step2 (hooks & state)     |     [PR](https://github.com/woowacourse/react-payments/pull/400)     |  -  |
-| 페이먼츠 모듈 |               Module               |        Step1 (Module)         |      [PR](https://github.com/woowacourse/react-modules/pull/25)      |  -  |
-|               |            Refactoring             |      Step2 (Refactoring)      |      [PR](https://github.com/woowacourse/react-modules/pull/63)      |  -  |
-|   장바구니    |    클라이언트 상태(Recoil), RTL    |             Step1             |  [PR](https://github.com/woowacourse/react-shopping-cart/pull/253)   |  -  |
-|               |             파생 상태              |             Step2             |  [PR](https://github.com/woowacourse/react-shopping-cart/pull/313)   |  -  |
-|   상품 목록   |                MSW                 |             Step1             | [PR](https://github.com/woowacourse/react-shopping-products/pull/33) |  -  |
-|               |  서버 상태 관리 (TanStack Query)   |             Step2             | [PR](https://github.com/woowacourse/react-shopping-products/pull/70) |  -  |
+|   미션 이름   |            학습 키워드             |             Step              |                               미션 PR                                |
+| :-----------: | :--------------------------------: | :---------------------------: | :------------------------------------------------------------------: |
+|   페이먼츠    | Component, Storybook, State, hooks | Step1 (Component & Storybook) |     [PR](https://github.com/woowacourse/react-payments/pull/339)     |
+|               |                                    |     Step2 (hooks & state)     |     [PR](https://github.com/woowacourse/react-payments/pull/400)     |
+| 페이먼츠 모듈 |               Module               |        Step1 (Module)         |      [PR](https://github.com/woowacourse/react-modules/pull/25)      |
+|               |            Refactoring             |      Step2 (Refactoring)      |      [PR](https://github.com/woowacourse/react-modules/pull/63)      |
+|   장바구니    |    클라이언트 상태(Recoil), RTL    |             Step1             |  [PR](https://github.com/woowacourse/react-shopping-cart/pull/253)   |
+|               |             파생 상태              |             Step2             |  [PR](https://github.com/woowacourse/react-shopping-cart/pull/313)   |
+|   상품 목록   |                MSW                 |             Step1             | [PR](https://github.com/woowacourse/react-shopping-products/pull/33) |
+|               |  서버 상태 관리 (TanStack Query)   |             Step2             | [PR](https://github.com/woowacourse/react-shopping-products/pull/70) |
 
 <br />
 
